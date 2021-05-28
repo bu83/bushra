@@ -6,7 +6,7 @@ weather=['Sunny','Sunny','Overcast','Rainy','Rainy','Rainy','Overcast','Sunny','
 temp=['Hot','Hot','Hot','Mild','Cool','Cool','Cool','Mild','Cool','Mild','Mild','Mild','Hot','Mild']
 
 
-
+/////////
 play=['No','No','Yes','Yes','Yes','No','Yes','No','Yes','Yes','Yes','Yes','Yes','No']
 le = preprocessing.LabelEncoder()
 
