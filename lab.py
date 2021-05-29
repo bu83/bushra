@@ -16,3 +16,4 @@ model.fit(features,label)
 #Predict Output
 predicted= model.predict([[0,2]]) # 0:Overcast, 2:Mild
 print(predicted)
+/
